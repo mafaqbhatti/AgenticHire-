@@ -1,7 +1,7 @@
 {
-  "name": "hireflow-backend",
+  "name": "agentichire-backend",
   "version": "1.0.0",
-  "description": "HireFlow backend - AI recruitment pipeline",
+  "description": "AgenticHire backend - Autonomous Multi-Agent AI recruitment pipeline",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
